@@ -1,0 +1,4717 @@
+(['C:\\Users\\MY PC\\Students Database\\frontend.py'],
+ ['C:\\Users\\MY PC\\Students Database'],
+ ['codecs'],
+ [],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_pkgutil',
+   'C:\\Users\\MY PC\\Students '
+   'Database\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\MY PC\\Students '
+   'Database\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\MY PC\\Students '
+   'Database\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\MY PC\\Students '
+   'Database\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('frontend', 'C:\\Users\\MY PC\\Students Database\\frontend.py', 'PYSOURCE')],
+ [('os',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('backend', 'C:\\Users\\MY PC\\Students Database\\backend.py', 'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tkinter\\constants.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\MY PC\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('select',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_sqlite3',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_tkinter',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('tcl86t.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\tcl86t.dll',
+   'BINARY'),
+  ('tk86t.dll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\tk86t.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\MY PC\\Students Database\\build\\frontend\\base_library.zip',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Qatar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Qatar',
+   'DATA'),
+  ('tcl\\msgs\\sw.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sw.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Libya',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Libya',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Isle_of_Man',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('tcl\\encoding\\cp850.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp850.enc',
+   'DATA'),
+  ('tk\\ttk\\scale.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\scale.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\MST7MDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\MST7MDT',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Sao_Tome',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Sao_Tome',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Malta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Malta',
+   'DATA'),
+  ('tcl\\msgs\\es_ve.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_ve.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Truk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Truk',
+   'DATA'),
+  ('tk\\ttk\\utils.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\utils.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Christmas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Christmas',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Mbabane',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Mbabane',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Hovd',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Hovd',
+   'DATA'),
+  ('tcl\\msgs\\uk.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\uk.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Fakaofo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Fakaofo',
+   'DATA'),
+  ('tcl\\encoding\\gb2312.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\gb2312.enc',
+   'DATA'),
+  ('tcl\\msgs\\bg.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\bg.msg',
+   'DATA'),
+  ('tcl\\msgs\\eu_es.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\eu_es.msg',
+   'DATA'),
+  ('tk\\msgs\\ru.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\ru.msg',
+   'DATA'),
+  ('tcl\\tzdata\\ROC',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\ROC',
+   'DATA'),
+  ('tcl\\tzdata\\Brazil\\East',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Brazil\\East',
+   'DATA'),
+  ('tk\\tkfbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\tkfbox.tcl',
+   'DATA'),
+  ('tcl\\package.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\package.tcl',
+   'DATA'),
+  ('tcl\\encoding\\iso2022-jp.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso2022-jp.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Havana',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Havana',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ust-Nera',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ust-Nera',
+   'DATA'),
+  ('tcl\\msgs\\es_ec.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_ec.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Apia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Apia',
+   'DATA'),
+  ('tcl\\tzdata\\America\\New_York',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\New_York',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Eastern',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Eastern',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Novokuznetsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('tk\\xmfbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\xmfbox.tcl',
+   'DATA'),
+  ('tcl\\encoding\\cp1255.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1255.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Detroit',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Detroit',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Honolulu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Honolulu',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-7',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-7',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Shiprock',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Shiprock',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Rio_Gallegos',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Tucuman',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('tcl\\msgs\\fo_fo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fo_fo.msg',
+   'DATA'),
+  ('tcl\\msgs\\pt.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\pt.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Pyongyang',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Pyongyang',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Puerto_Rico',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Puerto_Rico',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Lagos',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Lagos',
+   'DATA'),
+  ('tk\\images\\pwrdLogo75.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo75.gif',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Kosrae',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Kosrae',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-4',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-4',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Palmer',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Palmer',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Sakhalin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Sakhalin',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Novosibirsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Novosibirsk',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Mountain',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Mountain',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Juneau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Juneau',
+   'DATA'),
+  ('tk\\msgs\\eo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\eo.msg',
+   'DATA'),
+  ('tcl\\msgs\\mk.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\mk.msg',
+   'DATA'),
+  ('tcl\\msgs\\es_hn.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_hn.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Niamey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Niamey',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Lindeman',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Lindeman',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Saigon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Saigon',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Currie',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Currie',
+   'DATA'),
+  ('tk\\ttk\\clamTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\clamTheme.tcl',
+   'DATA'),
+  ('tcl\\msgs\\es.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Reykjavik',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('tcl\\tzdata\\Brazil\\DeNoronha',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Brazil\\DeNoronha',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Edmonton',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Edmonton',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Cordoba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Asuncion',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Asuncion',
+   'DATA'),
+  ('tcl\\http1.0\\pkgIndex.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\http1.0\\pkgIndex.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Casablanca',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Casablanca',
+   'DATA'),
+  ('tcl\\msgs\\nl_be.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\nl_be.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Tegucigalpa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Tegucigalpa',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\UTC',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\UTC',
+   'DATA'),
+  ('tcl\\tzdata\\PRC',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\PRC',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Rangoon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Rangoon',
+   'DATA'),
+  ('tcl\\msgs\\tr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\tr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\HST10',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\HST10',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Belfast',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Belfast',
+   'DATA'),
+  ('tk\\listbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\listbox.tcl',
+   'DATA'),
+  ('tcl\\encoding\\cp852.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp852.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Minsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Minsk',
+   'DATA'),
+  ('tcl\\msgs\\zh.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\zh.msg',
+   'DATA'),
+  ('tcl\\msgs\\en_ie.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_ie.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Bangui',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Bangui',
+   'DATA'),
+  ('tcl\\msgs\\ar_jo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ar_jo.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Aqtau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Aqtau',
+   'DATA'),
+  ('tcl\\tzdata\\MST',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\MST',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Creston',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Creston',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Ceuta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Ceuta',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\CST6CDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\CST6CDT',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\McMurdo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\McMurdo',
+   'DATA'),
+  ('tk\\panedwindow.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\panedwindow.tcl',
+   'DATA'),
+  ('tk\\ttk\\treeview.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\treeview.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Qyzylorda',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Qyzylorda',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Knox_IN',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Knox_IN',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Melbourne',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Melbourne',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Ushuaia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('tcl\\msgs\\es_ni.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_ni.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Iceland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Iceland',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Rainy_River',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Rainy_River',
+   'DATA'),
+  ('tcl\\encoding\\cp865.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp865.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Tallinn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Tallinn',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Madeira',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Madeira',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Mauritius',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Mauritius',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Easter',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Easter',
+   'DATA'),
+  ('tcl\\tzdata\\W-SU',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\W-SU',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Chicago',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Chicago',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Moscow',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Moscow',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Windhoek',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Windhoek',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Maputo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Maputo',
+   'DATA'),
+  ('tcl\\encoding\\macTurkish.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macTurkish.enc',
+   'DATA'),
+  ('tk\\tearoff.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\tearoff.tcl',
+   'DATA'),
+  ('tcl\\msgs\\ga_ie.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ga_ie.msg',
+   'DATA'),
+  ('tk\\msgs\\de.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\de.msg',
+   'DATA'),
+  ('tcl\\msgs\\sh.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sh.msg',
+   'DATA'),
+  ('tcl\\encoding\\macUkraine.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macUkraine.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-3',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-3',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\PST8',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\PST8',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Aleutian',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Aleutian',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Asmera',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Asmera',
+   'DATA'),
+  ('tcl\\msgs\\ko.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ko.msg',
+   'DATA'),
+  ('tcl\\encoding\\cp866.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp866.enc',
+   'DATA'),
+  ('tk\\fontchooser.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\fontchooser.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Urumqi',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Urumqi',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Riga',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Riga',
+   'DATA'),
+  ('tcl\\msgs\\nl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\nl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Belem',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Belem',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Maceio',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Maceio',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Nauru',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Nauru',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Vatican',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Vatican',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-6',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-6',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Montevideo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Montevideo',
+   'DATA'),
+  ('tcl\\msgs\\be.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\be.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Luanda',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Luanda',
+   'DATA'),
+  ('tcl\\tzdata\\Chile\\EasterIsland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Chile\\EasterIsland',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Thule',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Thule',
+   'DATA'),
+  ('tcl\\msgs\\ga.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ga.msg',
+   'DATA'),
+  ('tcl\\tzdata\\MST7MDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\MST7MDT',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-4.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-4.enc',
+   'DATA'),
+  ('tcl\\tzdata\\EET',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\EET',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Irkutsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Irkutsk',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Bermuda',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Bermuda',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Hawaii',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Hawaii',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Marigot',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Marigot',
+   'DATA'),
+  ('tcl\\msgs\\ar.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ar.msg',
+   'DATA'),
+  ('tcl\\msgs\\en_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_in.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Monterrey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Monterrey',
+   'DATA'),
+  ('tcl\\msgs\\de_be.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\de_be.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Johnston',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Johnston',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Damascus',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Damascus',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\San_Juan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Noronha',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Noronha',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Vientiane',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Vientiane',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Yakutsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Yakutsk',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Saratov',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Saratov',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Malabo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Malabo',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Djibouti',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Djibouti',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Queensland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Queensland',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Amman',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Amman',
+   'DATA'),
+  ('tk\\images\\logoLarge.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\logoLarge.gif',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Zagreb',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Zagreb',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Dhaka',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Dhaka',
+   'DATA'),
+  ('tcl\\opt0.4\\optparse.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\opt0.4\\optparse.tcl',
+   'DATA'),
+  ('tcl\\encoding\\symbol.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\symbol.enc',
+   'DATA'),
+  ('tcl\\tm.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tm.tcl',
+   'DATA'),
+  ('tcl\\msgs\\es_gt.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_gt.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Wake',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Wake',
+   'DATA'),
+  ('tk\\ttk\\defaults.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\defaults.tcl',
+   'DATA'),
+  ('tcl\\msgs\\hi_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\hi_in.msg',
+   'DATA'),
+  ('tcl\\msgs\\ar_lb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ar_lb.msg',
+   'DATA'),
+  ('tk\\images\\logo64.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\logo64.gif',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Louisville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Louisville',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\West',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\West',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Guadeloupe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Guadeloupe',
+   'DATA'),
+  ('tcl\\history.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\history.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Karachi',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Karachi',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Regina',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Regina',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Chungking',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Chungking',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-3.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-3.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Mountain',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Mountain',
+   'DATA'),
+  ('tk\\palette.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\palette.tcl',
+   'DATA'),
+  ('tcl\\msgs\\es_pa.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_pa.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-1',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-1',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Arizona',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Arizona',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Madrid',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Madrid',
+   'DATA'),
+  ('tk\\images\\pwrdLogo150.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo150.gif',
+   'DATA'),
+  ('tcl\\encoding\\cp869.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp869.enc',
+   'DATA'),
+  ('tcl\\encoding\\cp1251.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1251.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Tirane',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Tirane',
+   'DATA'),
+  ('tcl\\msgs\\ta_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ta_in.msg',
+   'DATA'),
+  ('tk\\msgs\\en.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\en.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Atyrau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Atyrau',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Alaska',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Alaska',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Hong_Kong',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Hong_Kong',
+   'DATA'),
+  ('tk\\msgs\\cs.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\cs.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Mogadishu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Mogadishu',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Majuro',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Majuro',
+   'DATA'),
+  ('tcl\\msgs\\fa_ir.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fa_ir.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Winamac',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Ndjamena',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Ndjamena',
+   'DATA'),
+  ('tcl\\msgs\\es_py.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_py.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Vostok',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Vostok',
+   'DATA'),
+  ('tcl\\msgs\\ko_kr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ko_kr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Jamaica',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Jamaica',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+11',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+11',
+   'DATA'),
+  ('tcl\\msgs\\da.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\da.msg',
+   'DATA'),
+  ('tcl8\\8.5\\tcltest-2.5.0.tm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\..\\tcl8\\8.5\\tcltest-2.5.0.tm',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-5.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-5.enc',
+   'DATA'),
+  ('tcl\\msgs\\bn_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\bn_in.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Rankin_Inlet',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Rankin_Inlet',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-13',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-13',
+   'DATA'),
+  ('tcl\\msgs\\sk.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sk.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Japan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Japan',
+   'DATA'),
+  ('tcl\\encoding\\cp737.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp737.enc',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Central',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Central',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-9',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-9',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Curacao',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Curacao',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Chongqing',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Chongqing',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Michigan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Michigan',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Canberra',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Canberra',
+   'DATA'),
+  ('tcl\\auto.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\auto.tcl',
+   'DATA'),
+  ('tcl\\encoding\\macIceland.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macIceland.enc',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\CST6',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\CST6',
+   'DATA'),
+  ('tcl\\tzdata\\UTC',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\UTC',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Lubumbashi',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Lubumbashi',
+   'DATA'),
+  ('tk\\comdlg.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\comdlg.tcl',
+   'DATA'),
+  ('tcl\\encoding\\jis0201.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\jis0201.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Anadyr',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Anadyr',
+   'DATA'),
+  ('tcl\\encoding\\cp857.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp857.enc',
+   'DATA'),
+  ('tcl\\msgs\\mr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\mr.msg',
+   'DATA'),
+  ('tcl\\encoding\\cp936.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp936.enc',
+   'DATA'),
+  ('tcl\\encoding\\cp437.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp437.enc',
+   'DATA'),
+  ('tcl8\\8.4\\platform-1.0.14.tm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\..\\tcl8\\8.4\\platform-1.0.14.tm',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Syowa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Syowa',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Grand_Turk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Grand_Turk',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Gibraltar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Gibraltar',
+   'DATA'),
+  ('tcl\\tzdata\\Egypt',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Egypt',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Timbuktu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Timbuktu',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Warsaw',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Warsaw',
+   'DATA'),
+  ('tcl\\safe.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\safe.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Universal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Universal',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Godthab',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Godthab',
+   'DATA'),
+  ('tcl\\tzdata\\Iran',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Iran',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Funafuti',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Funafuti',
+   'DATA'),
+  ('tk\\iconlist.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\iconlist.tcl',
+   'DATA'),
+  ('tcl\\encoding\\cp1257.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1257.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Vilnius',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Vilnius',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Boise',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Boise',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Prague',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Prague',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Indianapolis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Dakar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Dakar',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Sydney',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Sydney',
+   'DATA'),
+  ('tcl\\tzdata\\Kwajalein',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Kwajalein',
+   'DATA'),
+  ('tcl\\msgs\\nb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\nb.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Santarem',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Santarem',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Los_Angeles',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Los_Angeles',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Menominee',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Menominee',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Galapagos',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Galapagos',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tbilisi',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tbilisi',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Tarawa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Tarawa',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Stanley',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Stanley',
+   'DATA'),
+  ('tcl\\msgs\\en_gb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_gb.msg',
+   'DATA'),
+  ('tcl\\msgs\\pt_br.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\pt_br.msg',
+   'DATA'),
+  ('tcl\\encoding\\iso2022-kr.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso2022-kr.enc',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-16.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-16.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Hebron',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Hebron',
+   'DATA'),
+  ('tcl\\encoding\\macCyrillic.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macCyrillic.enc',
+   'DATA'),
+  ('tcl\\encoding\\cp949.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp949.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\LHI',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\LHI',
+   'DATA'),
+  ('tk\\icons.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\icons.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Catamarca',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Ouagadougou',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Ouagadougou',
+   'DATA'),
+  ('tcl\\msgs\\es_pr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_pr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+8',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+8',
+   'DATA'),
+  ('tcl\\msgs\\es_cl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_cl.msg',
+   'DATA'),
+  ('tcl\\msgs\\es_bo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_bo.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT0',
+   'DATA'),
+  ('tk\\images\\README',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\README',
+   'DATA'),
+  ('tk\\focus.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\focus.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Israel',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Israel',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Amsterdam',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Amsterdam',
+   'DATA'),
+  ('tcl\\msgs\\en_bw.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_bw.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Tell_City',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Aqtobe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Aqtobe',
+   'DATA'),
+  ('tcl\\encoding\\cp855.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp855.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ho_Chi_Minh',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('tk\\msgs\\sv.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\sv.msg',
+   'DATA'),
+  ('tcl\\encoding\\dingbats.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\dingbats.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Vevay',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('tcl\\msgs\\de.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\de.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Baghdad',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Baghdad',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Shanghai',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Shanghai',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Macquarie',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Macquarie',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Costa_Rica',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Costa_Rica',
+   'DATA'),
+  ('tcl\\msgs\\eo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\eo.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Vienna',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Vienna',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Jan_Mayen',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('tk\\bgerror.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\bgerror.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Marquesas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Marquesas',
+   'DATA'),
+  ('tcl\\msgs\\en_zw.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_zw.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Eastern',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Eastern',
+   'DATA'),
+  ('tk\\ttk\\menubutton.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\menubutton.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Paris',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Paris',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Guayaquil',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Guayaquil',
+   'DATA'),
+  ('tcl\\msgs\\en_za.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_za.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Broken_Hill',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Broken_Hill',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Berlin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Berlin',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Merida',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Merida',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Tortola',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Tortola',
+   'DATA'),
+  ('tcl\\encoding\\cp860.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp860.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Vaduz',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Vaduz',
+   'DATA'),
+  ('tcl\\msgs\\bn.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\bn.msg',
+   'DATA'),
+  ('tk\\ttk\\cursors.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\cursors.tcl',
+   'DATA'),
+  ('tcl\\parray.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\parray.tcl',
+   'DATA'),
+  ('tcl\\msgs\\kok_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kok_in.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Pohnpei',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Pohnpei',
+   'DATA'),
+  ('tk\\ttk\\sizegrip.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\sizegrip.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Winnipeg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Winnipeg',
+   'DATA'),
+  ('tcl\\tzdata\\Greenwich',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Greenwich',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Port-au-Prince',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Port-au-Prince',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-14',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-14',
+   'DATA'),
+  ('tcl\\msgs\\ar_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ar_in.msg',
+   'DATA'),
+  ('tcl\\msgs\\sr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Jujuy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('tcl\\msgs\\vi.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\vi.msg',
+   'DATA'),
+  ('tk\\ttk\\fonts.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\fonts.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Mendoza',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Kigali',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Kigali',
+   'DATA'),
+  ('tcl\\msgs\\ar_sy.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ar_sy.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Rarotonga',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Rarotonga',
+   'DATA'),
+  ('tcl\\msgs\\kok.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kok.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Denver',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Denver',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Faroe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Faroe',
+   'DATA'),
+  ('tcl\\encoding\\cp1256.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1256.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Nassau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Nassau',
+   'DATA'),
+  ('tcl\\encoding\\ksc5601.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\ksc5601.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Palau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Palau',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cayenne',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cayenne',
+   'DATA'),
+  ('tcl\\encoding\\macJapan.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macJapan.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Pontianak',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Pontianak',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Atikokan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Atikokan',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Colombo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Colombo',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Bahia_Banderas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Bahia_Banderas',
+   'DATA'),
+  ('tcl\\msgs\\de_at.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\de_at.msg',
+   'DATA'),
+  ('tk\\mkpsenc.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\mkpsenc.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Ljubljana',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Ljubljana',
+   'DATA'),
+  ('tcl\\msgs\\en_nz.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_nz.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Halifax',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Halifax',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cambridge_Bay',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cambridge_Bay',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kamchatka',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kamchatka',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Araguaina',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Araguaina',
+   'DATA'),
+  ('tk\\msgs\\pl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\pl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\YST9',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\YST9',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\EST5EDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\EST5EDT',
+   'DATA'),
+  ('tcl\\msgs\\eu.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\eu.msg',
+   'DATA'),
+  ('tk\\ttk\\ttk.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\ttk.tcl',
+   'DATA'),
+  ('tk\\msgs\\pt.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\pt.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Conakry',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Conakry',
+   'DATA'),
+  ('tk\\scrlbar.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\scrlbar.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Asmara',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Asmara',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Caracas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Caracas',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Beirut',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Beirut',
+   'DATA'),
+  ('tcl\\msgs\\sq.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sq.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ashgabat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ashgabat',
+   'DATA'),
+  ('tk\\license.terms',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\license.terms',
+   'DATA'),
+  ('tk\\ttk\\button.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\button.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Kwajalein',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Kwajalein',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Nairobi',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Nairobi',
+   'DATA'),
+  ('tcl\\msgs\\te.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\te.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT',
+   'DATA'),
+  ('tk\\ttk\\combobox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\combobox.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Fort_Wayne',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Fort_Wayne',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Katmandu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Katmandu',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Mazatlan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Mazatlan',
+   'DATA'),
+  ('tcl\\msgs\\zh_tw.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\zh_tw.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Brisbane',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Brisbane',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-15.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-15.enc',
+   'DATA'),
+  ('tcl\\msgs\\ms_my.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ms_my.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Rio_Branco',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Rio_Branco',
+   'DATA'),
+  ('tcl\\msgs\\es_co.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_co.msg',
+   'DATA'),
+  ('tk\\ttk\\aquaTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\aquaTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Newfoundland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Newfoundland',
+   'DATA'),
+  ('tcl\\msgs\\hr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\hr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Choibalsan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Choibalsan',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-1.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-1.enc',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-6.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-6.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Montserrat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Montserrat',
+   'DATA'),
+  ('tcl8\\8.6\\http-2.9.0.tm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\..\\tcl8\\8.6\\http-2.9.0.tm',
+   'DATA'),
+  ('tcl\\msgs\\zh_sg.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\zh_sg.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Mahe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Mahe',
+   'DATA'),
+  ('tk\\ttk\\classicTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\classicTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kabul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kabul',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+5',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+5',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Dili',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Dili',
+   'DATA'),
+  ('tcl\\msgs\\hi.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\hi.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Belize',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Belize',
+   'DATA'),
+  ('tk\\msgs\\es.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\es.msg',
+   'DATA'),
+  ('tcl\\msgs\\es_cr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_cr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\AST4ADT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\AST4ADT',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Reunion',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Reunion',
+   'DATA'),
+  ('tcl\\tzdata\\CET',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\CET',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Omsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Omsk',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\ComodRivadavia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('tcl\\encoding\\cp864.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp864.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Marengo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('tcl\\tzdata\\Singapore',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Singapore',
+   'DATA'),
+  ('tcl\\msgs\\sv.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sv.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Saskatchewan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Saskatchewan',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Bahrain',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Bahrain',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kolkata',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kolkata',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Lima',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Lima',
+   'DATA'),
+  ('tcl\\msgs\\hu.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\hu.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Phoenix',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Phoenix',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Calcutta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Calcutta',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Recife',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Recife',
+   'DATA'),
+  ('tcl\\encoding\\cp1250.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1250.enc',
+   'DATA'),
+  ('tcl8\\8.5\\msgcat-1.6.1.tm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\..\\tcl8\\8.5\\msgcat-1.6.1.tm',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Rosario',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Rosario',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\PST8PDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\PST8PDT',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Nome',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Nome',
+   'DATA'),
+  ('tcl\\msgs\\en_be.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_be.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Portugal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Portugal',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Guernsey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Guernsey',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Chagos',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Chagos',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Jujuy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Jujuy',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Santa_Isabel',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Santa_Isabel',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Nicosia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Nicosia',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Jakarta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Jakarta',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Aden',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Aden',
+   'DATA'),
+  ('tk\\ttk\\scrollbar.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\scrollbar.tcl',
+   'DATA'),
+  ('tcl\\encoding\\macCroatian.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macCroatian.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\DumontDUrville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Porto_Acre',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Porto_Acre',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Macao',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Macao',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Phnom_Penh',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('tcl\\tzdata\\Mexico\\BajaSur',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Mexico\\BajaSur',
+   'DATA'),
+  ('tcl\\encoding\\cp1254.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1254.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\South',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\South',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Porto_Velho',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Porto_Velho',
+   'DATA'),
+  ('tcl\\msgs\\lt.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\lt.msg',
+   'DATA'),
+  ('tcl\\msgs\\kl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kl.msg',
+   'DATA'),
+  ('tcl\\encoding\\cp861.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp861.enc',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-7.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-7.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Lisbon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Lisbon',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\Universal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\Universal',
+   'DATA'),
+  ('tk\\ttk\\xpTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\xpTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Stockholm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Stockholm',
+   'DATA'),
+  ('tk\\obsolete.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\obsolete.tcl',
+   'DATA'),
+  ('tcl\\encoding\\macThai.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macThai.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Jayapura',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Jayapura',
+   'DATA'),
+  ('tk\\msgs\\da.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\da.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Petersburg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('tcl\\tzdata\\GMT0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GMT0',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-11',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-11',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Pangnirtung',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Pangnirtung',
+   'DATA'),
+  ('tk\\images\\pwrdLogo200.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo200.gif',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\MST7',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\MST7',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Chuuk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Chuuk',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Pitcairn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Pitcairn',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Scoresbysund',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Scoresbysund',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Kralendijk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Kralendijk',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Anguilla',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Anguilla',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Kitts',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Kitts',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Montreal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Montreal',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Khartoum',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Khartoum',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+4',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+4',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Lower_Princes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Lower_Princes',
+   'DATA'),
+  ('tcl\\msgs\\ms.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ms.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Mayotte',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Mayotte',
+   'DATA'),
+  ('tcl\\encoding\\cp863.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp863.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Kampala',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Kampala',
+   'DATA'),
+  ('tk\\images\\pwrdLogo100.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo100.gif',
+   'DATA'),
+  ('tcl\\msgs\\ca.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ca.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Grenada',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Grenada',
+   'DATA'),
+  ('tcl\\tzdata\\America\\North_Dakota\\Center',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-14.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-14.enc',
+   'DATA'),
+  ('tk\\ttk\\progress.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\progress.tcl',
+   'DATA'),
+  ('tk\\msgs\\el.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\el.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Troll',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Troll',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Central',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Central',
+   'DATA'),
+  ('tcl\\msgs\\it_ch.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\it_ch.msg',
+   'DATA'),
+  ('tcl\\http1.0\\http.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\http1.0\\http.tcl',
+   'DATA'),
+  ('tcl\\msgs\\el.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\el.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Brazzaville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Brazzaville',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Salta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Salta',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Tasmania',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Tasmania',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Baku',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Baku',
+   'DATA'),
+  ('tcl\\msgs\\gv_gb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\gv_gb.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Blanc-Sablon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Blanc-Sablon',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Yerevan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Yerevan',
+   'DATA'),
+  ('tcl\\msgs\\zh_cn.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\zh_cn.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Tiraspol',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Tiraspol',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indianapolis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indianapolis',
+   'DATA'),
+  ('tcl\\msgs\\th.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\th.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kashgar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kashgar',
+   'DATA'),
+  ('tk\\ttk\\winTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\winTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\NZ-CHAT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\NZ-CHAT',
+   'DATA'),
+  ('tcl\\encoding\\macRomania.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macRomania.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\El_Salvador',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\El_Salvador',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Busingen',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Busingen',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Nipigon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Nipigon',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Lusaka',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Lusaka',
+   'DATA'),
+  ('tcl\\encoding\\gb2312-raw.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\gb2312-raw.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Yellowknife',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Yellowknife',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Inuvik',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Inuvik',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Darwin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Darwin',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Kiritimati',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Kiritimati',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-12',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-12',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Managua',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Managua',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Port_of_Spain',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Port_of_Spain',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\South_Georgia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Port_Moresby',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('tk\\msgbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgbox.tcl',
+   'DATA'),
+  ('tcl\\msgs\\ta.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ta.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Eirunepe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Eirunepe',
+   'DATA'),
+  ('tk\\msgs\\fr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\fr.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Bujumbura',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Bujumbura',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\East-Saskatchewan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\East-Saskatchewan',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tel_Aviv',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Macau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Macau',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Seoul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Seoul',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cordoba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cordoba',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Fort_Nelson',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Fort_Nelson',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Douala',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Douala',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Tahiti',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Tahiti',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Auckland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Auckland',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Whitehorse',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Whitehorse',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kuwait',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kuwait',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\UCT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\UCT',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Addis_Ababa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('tcl\\init.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\init.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Libreville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Libreville',
+   'DATA'),
+  ('tk\\ttk\\entry.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\entry.tcl',
+   'DATA'),
+  ('tcl\\opt0.4\\pkgIndex.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\opt0.4\\pkgIndex.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+9',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+9',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Krasnoyarsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Catamarca',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Catamarca',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Famagusta',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Famagusta',
+   'DATA'),
+  ('tk\\images\\pwrdLogo.eps',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo.eps',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Dublin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Dublin',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Comoro',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Comoro',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tashkent',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tashkent',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Luxembourg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Luxembourg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Guam',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Guam',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Porto-Novo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Porto-Novo',
+   'DATA'),
+  ('tcl\\tzdata\\GB-Eire',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GB-Eire',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+2',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+2',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Jersey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Jersey',
+   'DATA'),
+  ('tcl\\tzdata\\America\\North_Dakota\\Beulah',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('tcl\\tzdata\\America\\North_Dakota\\New_Salem',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Chita',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Chita',
+   'DATA'),
+  ('tk\\choosedir.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\choosedir.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Ulyanovsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('tcl\\msgs\\es_sv.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_sv.msg',
+   'DATA'),
+  ('tk\\images\\logo.eps',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\logo.eps',
+   'DATA'),
+  ('tcl\\encoding\\cp1253.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1253.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Bougainville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Bougainville',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-13.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-13.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Tongatapu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Tongatapu',
+   'DATA'),
+  ('tcl\\tzdata\\Poland',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Poland',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Kaliningrad',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Kaliningrad',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Efate',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Efate',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Martinique',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Martinique',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Panama',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Panama',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Thunder_Bay',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Thunder_Bay',
+   'DATA'),
+  ('tcl\\msgs\\gl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\gl.msg',
+   'DATA'),
+  ('tcl\\msgs\\pl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\pl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\San_Luis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('tcl\\tzdata\\Chile\\Continental',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Chile\\Continental',
+   'DATA'),
+  ('tcl\\msgs\\te_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\te_in.msg',
+   'DATA'),
+  ('tk\\ttk\\spinbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\spinbox.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Sarajevo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Sarajevo',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-2',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-2',
+   'DATA'),
+  ('tk\\images\\logoMed.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\logoMed.gif',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Oral',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Oral',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Barbados',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Barbados',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Adak',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Adak',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Atka',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Atka',
+   'DATA'),
+  ('tcl\\tzdata\\Mexico\\General',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Mexico\\General',
+   'DATA'),
+  ('tk\\megawidget.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\megawidget.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\South_Pole',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\South_Pole',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Samarkand',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Samarkand',
+   'DATA'),
+  ('tcl\\tzdata\\WET',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\WET',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Gaza',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Gaza',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cuiaba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cuiaba',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+7',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+7',
+   'DATA'),
+  ('tcl\\msgs\\it.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\it.msg',
+   'DATA'),
+  ('tcl\\encoding\\ascii.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\ascii.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Paramaribo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Paramaribo',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Nouakchott',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Nouakchott',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Volgograd',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Volgograd',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Atlantic',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Atlantic',
+   'DATA'),
+  ('tcl\\msgs\\es_uy.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_uy.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Antananarivo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Antananarivo',
+   'DATA'),
+  ('tcl\\encoding\\jis0212.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\jis0212.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Hermosillo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Hermosillo',
+   'DATA'),
+  ('tcl\\msgs\\id_id.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\id_id.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ujung_Pandang',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('tk\\msgs\\it.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\it.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Santiago',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Santiago',
+   'DATA'),
+  ('tcl\\encoding\\jis0208.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\jis0208.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Thimbu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Thimbu',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Dominica',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Dominica',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-2.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-2.enc',
+   'DATA'),
+  ('tcl\\tclIndex',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tclIndex',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Pago_Pago',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Campo_Grande',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Campo_Grande',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kuala_Lumpur',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ulan_Bator',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('tcl\\msgs\\cs.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\cs.msg',
+   'DATA'),
+  ('tk\\console.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\console.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Indiana-Starke',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Indiana-Starke',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Istanbul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Istanbul',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Bahia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Bahia',
+   'DATA'),
+  ('tcl\\encoding\\big5.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\big5.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cancun',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cancun',
+   'DATA'),
+  ('tcl\\tzdata\\Arctic\\Longyearbyen',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('tcl\\tzdata\\ROK',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\ROK',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Niue',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Niue',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Coral_Harbour',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Coral_Harbour',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Punta_Arenas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Punta_Arenas',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Singapore',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Singapore',
+   'DATA'),
+  ('tcl\\tzdata\\Mexico\\BajaNorte',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Mexico\\BajaNorte',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+12',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+12',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Chisinau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Chisinau',
+   'DATA'),
+  ('tcl\\msgs\\en_ph.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_ph.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Perth',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Perth',
+   'DATA'),
+  ('tcl\\encoding\\cp775.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp775.enc',
+   'DATA'),
+  ('tcl\\msgs\\af.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\af.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Accra',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Accra',
+   'DATA'),
+  ('tcl\\msgs\\fa_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fa_in.msg',
+   'DATA'),
+  ('tcl\\encoding\\cp932.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp932.enc',
+   'DATA'),
+  ('tcl\\word.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\word.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\PST8PDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\PST8PDT',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Oslo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Oslo',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-10',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-10',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Aruba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Aruba',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Blantyre',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Blantyre',
+   'DATA'),
+  ('tcl\\tzdata\\Navajo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Navajo',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+3',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+3',
+   'DATA'),
+  ('tcl\\msgs\\es_pe.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_pe.msg',
+   'DATA'),
+  ('tcl8\\8.4\\platform\\shell-1.1.4.tm',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\..\\tcl8\\8.4\\platform\\shell-1.1.4.tm',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Freetown',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Freetown',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Istanbul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Istanbul',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Eucla',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Eucla',
+   'DATA'),
+  ('tcl\\encoding\\shiftjis.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\shiftjis.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\Zulu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\Zulu',
+   'DATA'),
+  ('tcl\\msgs\\en_sg.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_sg.msg',
+   'DATA'),
+  ('tcl\\msgs\\et.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\et.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Brazil\\West',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Brazil\\West',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Toronto',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Toronto',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Lome',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Lome',
+   'DATA'),
+  ('tcl\\msgs\\es_mx.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_mx.msg',
+   'DATA'),
+  ('tcl\\msgs\\en_ca.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_ca.msg',
+   'DATA'),
+  ('tcl\\msgs\\es_do.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_do.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Jamaica',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Jamaica',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Bangkok',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Bangkok',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Muscat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Muscat',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Banjul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Banjul',
+   'DATA'),
+  ('tcl\\encoding\\euc-kr.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\euc-kr.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Podgorica',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Podgorica',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Yap',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Yap',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Barthelemy',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Barthelemy',
+   'DATA'),
+  ('tk\\ttk\\vistaTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\vistaTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kuching',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kuching',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Sao_Paulo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Sao_Paulo',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Thomas',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Thomas',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Kentucky\\Louisville',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Khandyga',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Khandyga',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Samara',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Samara',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Rothera',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Rothera',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Tripoli',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Tripoli',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Victoria',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Victoria',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Almaty',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Almaty',
+   'DATA'),
+  ('tcl\\encoding\\macDingbats.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macDingbats.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Kerguelen',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Kerguelen',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Swift_Current',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Swift_Current',
+   'DATA'),
+  ('tcl\\msgs\\ro.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ro.msg',
+   'DATA'),
+  ('tcl\\msgs\\mt.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\mt.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Samoa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Samoa',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Yancowinna',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Yancowinna',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tokyo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tokyo',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Cape_Verde',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('tcl\\encoding\\cp1258.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1258.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Athens',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Athens',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Azores',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Azores',
+   'DATA'),
+  ('tcl\\msgs\\gl_es.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\gl_es.msg',
+   'DATA'),
+  ('tcl\\tzdata\\UCT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\UCT',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Anchorage',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Anchorage',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Bogota',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Bogota',
+   'DATA'),
+  ('tcl\\encoding\\euc-cn.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\euc-cn.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+0',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Lord_Howe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Lord_Howe',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Lucia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Lucia',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Jerusalem',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Jerusalem',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Barnaul',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Barnaul',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Enderbury',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Enderbury',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Harare',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Harare',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Iqaluit',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Iqaluit',
+   'DATA'),
+  ('tk\\button.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\button.tcl',
+   'DATA'),
+  ('tk\\unsupported.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\unsupported.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Noumea',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Noumea',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\AST4',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\AST4',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Goose_Bay',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Goose_Bay',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tomsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tomsk',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Juba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Juba',
+   'DATA'),
+  ('tcl\\msgs\\fr_be.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fr_be.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Helsinki',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Helsinki',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Riyadh',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Riyadh',
+   'DATA'),
+  ('tcl\\tzdata\\CST6CDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\CST6CDT',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Pacific',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Pacific',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+6',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+6',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Fortaleza',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Fortaleza',
+   'DATA'),
+  ('tcl\\msgs\\gv.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\gv.msg',
+   'DATA'),
+  ('tcl\\encoding\\ebcdic.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\ebcdic.enc',
+   'DATA'),
+  ('tcl\\msgs\\en_au.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_au.msg',
+   'DATA'),
+  ('tcl\\tzdata\\GMT-0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GMT-0',
+   'DATA'),
+  ('tcl\\tzdata\\GMT+0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GMT+0',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Casey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Casey',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Algiers',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Algiers',
+   'DATA'),
+  ('tcl\\encoding\\koi8-u.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\koi8-u.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Srednekolymsk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('tk\\scale.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\scale.tcl',
+   'DATA'),
+  ('tk\\entry.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\entry.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\San_Marino',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\San_Marino',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Bratislava',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Bratislava',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Cocos',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Cocos',
+   'DATA'),
+  ('tcl\\encoding\\gb12345.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\gb12345.enc',
+   'DATA'),
+  ('tcl\\encoding\\macGreek.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macGreek.enc',
+   'DATA'),
+  ('tcl\\msgs\\he.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\he.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\La_Rioja',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Buenos_Aires',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Buenos_Aires',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Glace_Bay',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Glace_Bay',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Belgrade',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Belgrade',
+   'DATA'),
+  ('tk\\optMenu.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\optMenu.tcl',
+   'DATA'),
+  ('tcl\\encoding\\cp862.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp862.enc',
+   'DATA'),
+  ('tk\\safetk.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\safetk.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Vincent',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Vincent',
+   'DATA'),
+  ('tcl\\encoding\\macRoman.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macRoman.enc',
+   'DATA'),
+  ('tcl\\msgs\\fr_ca.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fr_ca.msg',
+   'DATA'),
+  ('tk\\msgs\\hu.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\hu.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Yekaterinburg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('tk\\images\\pwrdLogo175.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\pwrdLogo175.gif',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Gambier',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Gambier',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Danmarkshavn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Danmarkshavn',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-5',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-5',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Dushanbe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Dushanbe',
+   'DATA'),
+  ('tcl\\msgs\\nn.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\nn.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Cairo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Cairo',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Kathmandu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Kathmandu',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-10.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-10.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Bamako',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Bamako',
+   'DATA'),
+  ('tcl\\encoding\\macCentEuro.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\macCentEuro.enc',
+   'DATA'),
+  ('tcl\\msgs\\sl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\sl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Canada\\Yukon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Canada\\Yukon',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Skopje',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Skopje',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Bishkek',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Bishkek',
+   'DATA'),
+  ('tcl\\msgs\\id.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\id.msg',
+   'DATA'),
+  ('tcl\\msgs\\kw.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kw.msg',
+   'DATA'),
+  ('tcl\\msgs\\kw_gb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kw_gb.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Nicosia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Nicosia',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Budapest',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Budapest',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+1',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+1',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-8',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-8',
+   'DATA'),
+  ('tcl\\msgs\\ru_ua.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ru_ua.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Zurich',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Zurich',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Samoa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Samoa',
+   'DATA'),
+  ('tk\\ttk\\panedwindow.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\panedwindow.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Miquelon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Miquelon',
+   'DATA'),
+  ('tcl\\msgs\\fi.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fi.msg',
+   'DATA'),
+  ('tcl\\msgs\\en_hk.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\en_hk.msg',
+   'DATA'),
+  ('tk\\dialog.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\dialog.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Bucharest',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Bucharest',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Dawson_Creek',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Dawson_Creek',
+   'DATA'),
+  ('tcl\\msgs\\af_za.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\af_za.msg',
+   'DATA'),
+  ('tcl\\tzdata\\MET',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\MET',
+   'DATA'),
+  ('tcl\\msgs\\ru.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ru.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\St_Helena',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\St_Helena',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Chatham',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Chatham',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Virgin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Virgin',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Harbin',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Harbin',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT-0',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT-0',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Metlakatla',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Metlakatla',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Mariehamn',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Mariehamn',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Taipei',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Taipei',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Manaus',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Manaus',
+   'DATA'),
+  ('tk\\text.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\text.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\YST9YDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\YST9YDT',
+   'DATA'),
+  ('tcl\\encoding\\cp950.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp950.enc',
+   'DATA'),
+  ('tcl\\encoding\\tis-620.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\tis-620.enc',
+   'DATA'),
+  ('tk\\msgs\\nl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\nl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\GB',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GB',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\ACT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\ACT',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Monrovia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Monrovia',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ulaanbaatar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\El_Aaiun',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\El_Aaiun',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Ashkhabad',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Ashkhabad',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\GMT+10',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\GMT+10',
+   'DATA'),
+  ('tk\\clrpick.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\clrpick.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\GMT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\GMT',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Gaborone',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Gaborone',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-8.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-8.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Dacca',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Dacca',
+   'DATA'),
+  ('tk\\tk.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\tk.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Midway',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Midway',
+   'DATA'),
+  ('tcl\\tzdata\\US\\East-Indiana',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\East-Indiana',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Simferopol',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Simferopol',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Copenhagen',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Copenhagen',
+   'DATA'),
+  ('tk\\menu.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\menu.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Pacific-New',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Pacific-New',
+   'DATA'),
+  ('tcl\\encoding\\euc-jp.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\euc-jp.enc',
+   'DATA'),
+  ('tk\\pkgIndex.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\pkgIndex.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Abidjan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Abidjan',
+   'DATA'),
+  ('tcl\\tzdata\\Hongkong',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Hongkong',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Kinshasa',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Kinshasa',
+   'DATA'),
+  ('tcl\\encoding\\gb1988.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\gb1988.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Cayman',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Cayman',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Guatemala',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Guatemala',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Guadalcanal',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Wallis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Wallis',
+   'DATA'),
+  ('tcl\\encoding\\koi8-r.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\koi8-r.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Saipan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Saipan',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Mendoza',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Mendoza',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Sitka',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Sitka',
+   'DATA'),
+  ('tcl\\encoding\\cp874.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp874.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Eire',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Eire',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Rome',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Rome',
+   'DATA'),
+  ('tcl\\tzdata\\Brazil\\Acre',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Brazil\\Acre',
+   'DATA'),
+  ('tk\\ttk\\altTheme.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\altTheme.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Chihuahua',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Chihuahua',
+   'DATA'),
+  ('tk\\images\\logo100.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\logo100.gif',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Norfolk',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Norfolk',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Vincennes',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Hobart',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Hobart',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Yakutat',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Yakutat',
+   'DATA'),
+  ('tcl\\clock.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\clock.tcl',
+   'DATA'),
+  ('tcl\\msgs\\mr_in.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\mr_in.msg',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Indiana\\Knox',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Indiana\\Knox',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Canary',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Canary',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Maseru',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Maseru',
+   'DATA'),
+  ('tcl\\msgs\\fa.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fa.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Vladivostok',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Vladivostok',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Resolute',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Resolute',
+   'DATA'),
+  ('tcl\\msgs\\es_ar.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\es_ar.msg',
+   'DATA'),
+  ('tcl\\msgs\\fr_ch.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fr_ch.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Magadan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Magadan',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Kirov',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Kirov',
+   'DATA'),
+  ('tcl\\tzdata\\America\\La_Paz',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\La_Paz',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Tijuana',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Tijuana',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Andorra',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Andorra',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Mawson',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Mawson',
+   'DATA'),
+  ('tcl\\tzdata\\Cuba',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Cuba',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\Adelaide',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\Adelaide',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Johannesburg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Johannesburg',
+   'DATA'),
+  ('tcl\\tzdata\\Indian\\Maldives',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Indian\\Maldives',
+   'DATA'),
+  ('tcl\\tzdata\\Antarctica\\Davis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Antarctica\\Davis',
+   'DATA'),
+  ('tcl\\tzdata\\EST',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\EST',
+   'DATA'),
+  ('tcl\\tzdata\\NZ',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\NZ',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Fiji',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Fiji',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\North',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\North',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Mexico_City',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Mexico_City',
+   'DATA'),
+  ('tcl\\tzdata\\HST',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\HST',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Kentucky\\Monticello',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('tcl\\msgs\\ja.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\ja.msg',
+   'DATA'),
+  ('tcl\\msgs\\lv.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\lv.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Zaporozhye',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Zaporozhye',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Guyana',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Guyana',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Antigua',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Antigua',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Boa_Vista',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Boa_Vista',
+   'DATA'),
+  ('tk\\spinbox.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\spinbox.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\Etc\\Greenwich',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Etc\\Greenwich',
+   'DATA'),
+  ('tcl\\msgs\\is.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\is.msg',
+   'DATA'),
+  ('tk\\tclIndex',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\tclIndex',
+   'DATA'),
+  ('tk\\ttk\\notebook.tcl',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\ttk\\notebook.tcl',
+   'DATA'),
+  ('tcl\\tzdata\\US\\Pacific',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\US\\Pacific',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Brussels',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Brussels',
+   'DATA'),
+  ('tcl\\tzdata\\Pacific\\Ponape',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Pacific\\Ponape',
+   'DATA'),
+  ('tcl\\tzdata\\Australia\\NSW',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Australia\\NSW',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Manila',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Manila',
+   'DATA'),
+  ('tcl\\msgs\\fr.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fr.msg',
+   'DATA'),
+  ('tcl\\encoding\\cp1252.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\cp1252.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Tehran',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Tehran',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Yangon',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Yangon',
+   'DATA'),
+  ('tk\\images\\tai-ku.gif',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\images\\tai-ku.gif',
+   'DATA'),
+  ('tcl\\msgs\\kl_gl.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\kl_gl.msg',
+   'DATA'),
+  ('tcl\\tzdata\\SystemV\\EST5',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\SystemV\\EST5',
+   'DATA'),
+  ('tcl\\encoding\\iso8859-9.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso8859-9.enc',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Thimphu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Thimphu',
+   'DATA'),
+  ('tcl\\msgs\\fo.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\fo.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Astrakhan',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Astrakhan',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Ojinaga',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Ojinaga',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Monaco',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Monaco',
+   'DATA'),
+  ('tk\\msgs\\en_gb.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tk8.6\\msgs\\en_gb.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Kiev',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Kiev',
+   'DATA'),
+  ('tcl\\tzdata\\America\\St_Johns',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\St_Johns',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Dubai',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Dubai',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Ensenada',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Ensenada',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Vancouver',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Vancouver',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Dar_es_Salaam',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Brunei',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Brunei',
+   'DATA'),
+  ('tcl\\tzdata\\Atlantic\\Faeroe',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Atlantic\\Faeroe',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\London',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\London',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Sofia',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Sofia',
+   'DATA'),
+  ('tcl\\tzdata\\Turkey',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Turkey',
+   'DATA'),
+  ('tcl\\tzdata\\Europe\\Uzhgorod',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Europe\\Uzhgorod',
+   'DATA'),
+  ('tcl\\tzdata\\Zulu',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Zulu',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Santo_Domingo',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Santo_Domingo',
+   'DATA'),
+  ('tcl\\encoding\\iso2022.enc',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\encoding\\iso2022.enc',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Argentina\\Buenos_Aires',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('tcl\\tzdata\\Asia\\Makassar',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Asia\\Makassar',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Dawson',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Dawson',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Matamoros',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Matamoros',
+   'DATA'),
+  ('tcl\\msgs\\zh_hk.msg',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\msgs\\zh_hk.msg',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Tunis',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Tunis',
+   'DATA'),
+  ('tcl\\tzdata\\America\\Moncton',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\America\\Moncton',
+   'DATA'),
+  ('tcl\\tzdata\\EST5EDT',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\EST5EDT',
+   'DATA'),
+  ('tcl\\tzdata\\Africa\\Bissau',
+   'C:\\Users\\MY '
+   'PC\\AppData\\Local\\Programs\\Python\\Python39\\tcl\\tcl8.6\\tzdata\\Africa\\Bissau',
+   'DATA')],
+ [])
