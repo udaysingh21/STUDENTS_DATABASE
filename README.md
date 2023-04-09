@@ -14,9 +14,9 @@ The Students Database App is a user-friendly application built using the tkinter
 3. sqlite3
 
 # Usage
-1.Clone the repository
-2.Install the required libraries: pip install -r requirements.txt
-3.Run the app: python main.py
+1. Clone the repository
+2. Install the required libraries:    pip install -r requirements.txt
+3. Run the app:   python main.py
 
 # Contribution
 Contributions to the project are welcome. To contribute, please fork the repository and submit a pull request.
