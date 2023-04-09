@@ -9,8 +9,8 @@ The Students Database App is a user-friendly application built using the tkinter
 4. Update student records
 
 # Requirements
-1.Python 3
-2.tkinter
+1. Python 3
+2. tkinter
 3. sqlite3
 
 # Usage
