@@ -1,3 +1,4 @@
+![app1d py](https://github.com/udaysingh21/STUDENTS_DATABASE/assets/93074761/a4431f79-7ab0-4fea-9676-d4d15336bc47)
 # STUDENTS_DATABASE
 
 The Students Database App is a user-friendly application built using the tkinter and sqlite3 libraries. It enables users to easily collect and store information about students in a database. The app provides multiple functionalities such as viewing, adding, and deleting student records, which makes it a useful tool for anyone working with student data.
